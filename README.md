@@ -7,8 +7,6 @@ Torpedo is a simple library for PE manipulation. Currently it supports following
 
 ## Example
 
----
-
 ### Manual mapping
 ```c++
 #include "torpedo.hpp"
