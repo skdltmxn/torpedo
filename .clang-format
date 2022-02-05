@@ -1,0 +1,16 @@
+---
+BasedOnStyle: Microsoft
+AccessModifierOffset: '-4'
+AlignEscapedNewlines: Left
+AllowShortFunctionsOnASingleLine: Inline
+AllowShortLoopsOnASingleLine: 'true'
+AlwaysBreakTemplateDeclarations: MultiLine
+ColumnLimit: '120'
+IncludeBlocks: Regroup
+IndentWidth: '4'
+PointerAlignment: Left
+SpaceAfterTemplateKeyword: 'false'
+Standard: c++20
+UseTab: Never
+
+...
